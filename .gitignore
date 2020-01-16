@@ -8,4 +8,5 @@
 out
 gen
 
-pdf
+pdfs
+npm-debug.log
